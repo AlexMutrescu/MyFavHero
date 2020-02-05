@@ -1,0 +1,16 @@
+body {
+	background-color: orange;
+}
+h1{ color: red; 
+	font-size: 40px;
+}
+h2{ font-size: 30px;
+}
+.small{
+	font-size: 12px;
+}
+#first {}
+span{ font-family: italic;
+	  color: red; }
+h5 span { color: pink; 
+		font-size: 40px;}
